@@ -1,2 +1,2 @@
-# abhinavc.github.io
+# Notes
 ## My tech experiements 
